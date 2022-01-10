@@ -1,2 +1,2 @@
-This is a simple code to display the ASCII character on the P10 LED Display.
+This Project Contains The Codes to display the ASCII character on the P10 LED Display.
 Code Coming Soon..........................
